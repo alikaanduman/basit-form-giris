@@ -1,0 +1,18 @@
+C:\Users\Ogrenci1\Desktop\29.11.2017\Uyguluma\Uyguluma\bin\Debug\Uyguluma.exe.config
+C:\Users\Ogrenci1\Desktop\29.11.2017\Uyguluma\Uyguluma\bin\Debug\Uyguluma.exe
+C:\Users\Ogrenci1\Desktop\29.11.2017\Uyguluma\Uyguluma\bin\Debug\Uyguluma.pdb
+C:\Users\Ogrenci1\Desktop\29.11.2017\Uyguluma\Uyguluma\obj\Debug\Uyguluma.Form1.resources
+C:\Users\Ogrenci1\Desktop\29.11.2017\Uyguluma\Uyguluma\obj\Debug\Uyguluma.Properties.Resources.resources
+C:\Users\Ogrenci1\Desktop\29.11.2017\Uyguluma\Uyguluma\obj\Debug\Uyguluma.csproj.GenerateResource.Cache
+C:\Users\Ogrenci1\Desktop\29.11.2017\Uyguluma\Uyguluma\obj\Debug\Uyguluma.exe
+C:\Users\Ogrenci1\Desktop\29.11.2017\Uyguluma\Uyguluma\obj\Debug\Uyguluma.pdb
+C:\Users\Ogrenci1\Desktop\29.11.2017\Uyguluma\Uyguluma\obj\Debug\Uyguluma.csprojResolveAssemblyReference.cache
+E:\ \Nesnel Tabanlı Programlama\+aldım\Uyguluma\bin\Debug\Uyguluma.exe.config
+E:\ \Nesnel Tabanlı Programlama\+aldım\Uyguluma\obj\Debug\Uyguluma.exe
+E:\ \Nesnel Tabanlı Programlama\+aldım\Uyguluma\obj\Debug\Uyguluma.pdb
+D:\ \Nesnel Tabanlı Programlama\+aldım\Uyguluma\bin\Debug\Uyguluma.exe.config
+D:\ \Nesnel Tabanlı Programlama\+aldım\Uyguluma\obj\Debug\Uyguluma.exe
+D:\ \Nesnel Tabanlı Programlama\+aldım\Uyguluma\obj\Debug\Uyguluma.pdb
+D:\BİLİŞİM\Bilişim\Nesnel Tabanlı Programlama\UYGULAMALAR\+aldım\Uyguluma\bin\Debug\Uyguluma.exe.config
+D:\BİLİŞİM\Bilişim\Nesnel Tabanlı Programlama\UYGULAMALAR\+aldım\Uyguluma\obj\Debug\Uyguluma.exe
+D:\BİLİŞİM\Bilişim\Nesnel Tabanlı Programlama\UYGULAMALAR\+aldım\Uyguluma\obj\Debug\Uyguluma.pdb
